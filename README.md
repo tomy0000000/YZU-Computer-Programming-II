@@ -15,3 +15,12 @@
 | 9    | Object-Oriented ATM (Self-Design)                            |
 | 10   | Object-Oriented ATM (Assigned Structure)                     |
 | 11   | Object-Oriented Vishow Cinema Member Ticketing System        |
+
+## Exams
+
+| #                   | Title                                                        |
+| ------------------- | ------------------------------------------------------------ |
+| First Midterm Exam  | STL Vector + STL String                                      |
+| Second Midterm Exam | Multiply Two Polynomials                                     |
+| Final Exam          | Object Oriented Evergreen Laurel Hotel Online Reservation System |
+
